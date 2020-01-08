@@ -19,5 +19,5 @@ Guidelines for posting questions:
 * Format your questions nicely using markdown and code formatting. 
 * Preview your issue prior to posting.
 * Where appropriate, provide links to specific files, or even lines within them, in the body of your issue. This will help your helper understand your question. Note that only the teaching team will have access to private repos.
-* (Optional) Tag someone or some group of people. Start by typing the @ symbol and GitHub will generate some good suggestions. You can also type or paste in the GitHub username yourself. Examples: to tag Dr. D'Agostino McGowan, use `@LucyMcGowan`; to tag the entire teaching team tag `@Sta363-S20/owners`, to tag a class/team mate use their GitHub username.
+* (Optional) Tag someone or some group of people. Start by typing the @ symbol and GitHub will generate some good suggestions. You can also type or paste in the GitHub username yourself. Examples: to tag Dr. D'Agostino McGowan, use `@LucyMcGowan`; to tag the entire teaching team tag `@sta-363-s20/owners`, to tag a class/team mate use their GitHub username.
 * Hit "Submit new issue" when you're ready to post.
