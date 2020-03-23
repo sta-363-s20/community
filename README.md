@@ -1,5 +1,7 @@
 # community
 
+[![Gitter](https://badges.gitter.im/sta-363-s20/community.svg)](https://gitter.im/sta-363-s20/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Discussion, Q&A, everything you want to say, formatted nicely!
 
 All discussion for the course will be held in the issues of this repository. Please post all content related questions here, and use email only for personal matters. Note that this is a public repository.
